@@ -80,6 +80,6 @@
     },
     "registeredAt": "2026-01-14T17:18:53.254Z",
     "registeredBy": "arn:aws:sts::455722040700:assumed-role/voclabs/user3767324=Abhijeet",
-    "enableFaultInjection": false,
+    //"enableFaultInjection": false,
     "tags": []
 }
